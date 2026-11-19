@@ -4,6 +4,8 @@ public class Projectclass {
 
 	public static void main(String[] args) {
 		System.out.println("hlo");
+		System.out.println("bye");
+
 	}
 
 }
