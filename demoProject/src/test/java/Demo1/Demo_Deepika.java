@@ -9,6 +9,7 @@ public class Demo_Deepika {
 		// TODO Auto-generated method stub
 		WebDriver driver= new ChromeDriver();
 		driver.close();
+		
 
 	}
 
